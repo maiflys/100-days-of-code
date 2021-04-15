@@ -6,5 +6,11 @@
 
 **Thoughts:** I need to create a more concrete schedule with the material I want to look over, but for now, I am glad to be getting back into learning. Based on my knowledge of habit setting, I will also edit this project more for my constraints by leting myself pass to the next day with only 30 minutes of study.
 
+### Day 1: April 14, 2021 
+
+**Today's Progress**: Continued to look over notes from the Yu course. Relearning git through various sources. Also fiddled with getting Debian installed on a VM.
+
+**Thoughts:** Picking back up the Udemy is course is not quick since it's been a few months (followed that Ebbinghaus forgetting curve too well!), but my written notes helped a lot.
+
 
 
