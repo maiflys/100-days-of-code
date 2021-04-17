@@ -12,5 +12,16 @@
 
 **Thoughts:** Picking back up the Udemy is course is not quick since it's been a few months (followed that Ebbinghaus forgetting curve too well!), but my written notes helped a lot.
 
+### Day 2: April 15, 2021 
+
+**Today's Progress**: More git mostly. Read through some HTML notes on devdocs
+
+**Thoughts:** Tried to focus more on one topic.
+
+### Day 3: April 16, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:** 
 
 
